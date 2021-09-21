@@ -2,6 +2,7 @@
 
 A wrapper to provide type safe access to the localStorage and sessionStorage.
 
+> :exclamation: This project moved to [@lynoapp](https://github.com/lynoapp) and can be found [here](https://github.com/lynoapp/typed-local-store).
 ## Installation
 
 ```bash
